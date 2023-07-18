@@ -2,7 +2,7 @@
 - 👀 I’m interested in the role of computers in aerospace engineering
 - 🌱 I’m currently learning C, Python and JavaScript
 - 💞️ I’m looking to collaborate on any of the above
-- 📫 How to reach me - email: na168@snu.edu.in
+- 📫 How to reach me - email: namitarjaria25@gmail.com
 
 <!---
 depleur/depleur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
