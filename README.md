@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Namit!
-- 👀 I’m interested in the machine learning, forecasting, and operating systems
+- 👀 I’m interested in machine learning, forecasting, OS and game dev.
 - 🌱 I’m currently learning C++, Python and finishing [The Odin Project](https://www.theodinproject.com/).
 - 💞️ I’m looking to collaborate on just about anything!
 - 📫 Reach me at namitarjaria@gmail.com
